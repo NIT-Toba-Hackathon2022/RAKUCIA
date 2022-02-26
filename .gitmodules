@@ -1,0 +1,6 @@
+[submodule "RAKUCIA-front"]
+	path = RAKUCIA-front
+	url = https://github.com/NIT-Toba-Hackathon2022/RAKUCIA-front.git
+[submodule "RAKUCIA-server"]
+	path = RAKUCIA-server
+	url = https://github.com/NIT-Toba-Hackathon2022/RAKUCIA-server.git
